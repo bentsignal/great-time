@@ -1,9 +1,9 @@
 {
-  "name": "ts-package",
+  "name": "good-time",
   "type": "module",
   "version": "0.1.0",
   "license": "MIT",
-  "description": "TypeScript package template",
+  "description": "A useful time utility for TypeScript.",
   "exports": {
     ".": "./dist/index.mjs",
     "./package.json": "./package.json"
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bentsignal/ts-package.git"
+    "url": "https://github.com/bentsignal/good-time.git"
   },
   "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
