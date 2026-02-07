@@ -32,3 +32,7 @@ test("year to months", () => {
 test("minutes to seconds", () => {
   expect(convert(1, "minute", "to seconds")).toBe(60);
 });
+
+test("weeks to ms", () => {
+  expect(convert(2, "weeks", "to ms")).toBe(604_800_000 * 2);
+});
