@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Great Time</h2>
-<p align="center">Simple unit conversion in TypeScript</p>
+<p align="center">Simple time conversion in TypeScript</p>
 
 ### Overview
 
