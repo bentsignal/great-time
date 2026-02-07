@@ -3,15 +3,15 @@
   "type": "module",
   "version": "0.1.0",
   "license": "MIT",
-  "description": "A useful time utility for TypeScript.",
+  "description": "Convert time units in TypeScript.",
   "exports": {
     ".": "./dist/index.mjs",
     "./package.json": "./package.json"
   },
   "keywords": [
     "typescript",
-    "package",
-    "template"
+    "time",
+    "unit conversion"
   ],
   "repository": {
     "type": "git",

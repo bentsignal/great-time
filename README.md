@@ -7,28 +7,28 @@
 
 ### Overview
 
-Simple time unit conversion for typescript.
+Convert time units in TypeScript
 
 ### Installation
 
 ```
-ni ts-package
+ni great-time
 ```
 
 ```
-pnpm i ts-package
+pnpm i great-time
 ```
 
 ```
-bun i ts-package
+bun i great-time
 ```
 
 ```
-npm i ts-package
+npm i great-time
 ```
 
 ```
-yarn add ts-package
+yarn add great-time
 ```
 
 ### Usage
